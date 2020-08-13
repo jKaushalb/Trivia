@@ -20,6 +20,6 @@ I have used shared preferences for storing Highest Score.
 
 Resources:
  i learn and implement from
- comprehensive android development course on udemy.
+ The Comprehensive 2020 Android Development Masterclass on udemy.
 
 
